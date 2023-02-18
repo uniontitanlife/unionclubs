@@ -6811,6 +6811,10 @@ button.bg-dark:focus {
   background-color: #661818 !important;
 }
 
+.bg-nhs {
+  background-color: #004684 !important;
+}
+
 .border {
   border: 1px solid #dee2e6 !important;
 }
