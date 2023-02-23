@@ -600,6 +600,12 @@ pre code {
   overflow: auto;
 }
 
+@media screen and (max-width: 700px){
+  .popup{
+    width: 80%;
+  }
+}
+
 .wesley {
   text-decoration: underline;
   color: rgb(214, 107, 6);
@@ -611,14 +617,6 @@ pre code {
 
 .club-link{
   padding:10px 0px;
-}
-
-
-
-@media screen and (max-width: 700px){
-  .popup{
-    width: 80%;
-  }
 }
 
 @media (min-width: 576px) {
