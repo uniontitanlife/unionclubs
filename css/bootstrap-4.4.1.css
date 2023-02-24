@@ -6892,6 +6892,9 @@ button.bg-dark:focus {
   background-color: #4e7838 !important;
 }
 
+.bg-deca {
+  background-color: #00539d !important;
+}
 
 .border {
   border: 1px solid #dee2e6 !important;
